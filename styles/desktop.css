@@ -921,66 +921,66 @@ p input[type=text],
   margin-bottom: 50px;
   cursor: pointer;
 }
-.globalfooter .directory .directory_colum h3 {
+.globalfooter .directory h3 {
   font-size: 12px;
   line-height: 1.66667;
   font-weight: 600;
   letter-spacing: normal;
-  color: #333;
+  color: #333333;
   margin: 0;
 }
-.globalfooter .directory .directory_colum .ac-gf-directory-column-section-list {
+.globalfooter .directory .ac-gf-directory-column-section-list {
   margin-right: 20px;
   list-style: none;
   padding: 0;
 }
-.globalfooter .directory .directory_colum a {
-  color: #666;
+.globalfooter .directory a {
+  color: #666666;
   text-decoration: none;
   font-size: 12px;
   font-weight: 100;
 }
-.globalfooter .directory .directory_colum a:hover {
-  color: #333;
+.globalfooter .directory a:hover {
+  color: #333333;
   text-decoration: underline;
 }
-.globalfooter .directory .directory_colum h3 {
+.globalfooter .directory_colum h3 {
   font-size: 12px;
   line-height: 1.66667;
   font-weight: 600;
   letter-spacing: normal;
-  color: #333;
+  color: #333333;
   margin: 0;
 }
-.globalfooter .directory .directory_colum .ac-gf-directory-column-section-list {
+.globalfooter .directory_colum .ac-gf-directory-column-section-list {
   margin-right: 20px;
   list-style: none;
   padding: 0;
 }
-.globalfooter .directory .directory_colum a {
-  color: #666;
+.globalfooter .directory_colum a {
+  color: #666666;
   text-decoration: none;
   font-size: 12px;
 }
-.globalfooter .directory .directory_colum a:hover {
-  color: #333;
+.globalfooter .directory_colum a:hover {
+  color: #333333;
   text-decoration: underline;
 }
-.globalfooter .directory .directory_colum .directory_colum_section .list {
+.globalfooter .directory_colum .directory_colum_section .list {
   margin-right: 20px;
   list-style: none;
   padding: 0;
 }
-.globalfooter .directory .directory_colum .directory_colum_section .list a {
-  color: #666;
+.globalfooter .directory_colum .directory_colum_section .list a {
+  color: #666666;
   text-decoration: none;
   font-size: 12px;
 }
-.globalfooter .directory .directory_colum .directory_colum_section .list a:hover {
-  color: #333;
+.globalfooter .directory_colum .directory_colum_section .list a:hover {
+  color: #333333;
   text-decoration: underline;
 }
-.globalfooter .ac-gf-footer {
+.ac-gf-footer {
   font-size: 12px;
   line-height: 1.66667;
   font-weight: 100;
@@ -988,47 +988,47 @@ p input[type=text],
   color: rgba(51, 51, 51, 0.68);
   margin: 0;
 }
-.globalfooter .ac-gf-footer-shop hr {
+.ac-gf-footer-shop hr {
   height: 1px;
   background-color: rgba(51, 51, 51, 0.29);
   margin-top: -5px;
 }
-.globalfooter p a:hover {
-  color: #333;
+p a:hover {
+  color: #333333;
 }
-.globalfooter .ac-gf-footer-locale {
+.ac-gf-footer-locale {
   float: right;
   width: 100px;
 }
-.globalfooter .ac-gf-footer-locale .img {
+.ac-gf-footer-locale .img {
   background: no-repeat center / cover url("http://images.apple.com/ac/flags/1/images/us/16.png");
   width: 16px;
   height: 16px;
 }
-.globalfooter .ac-gf-footer-locale a {
+.ac-gf-footer-locale a {
   line-height: 1.66667;
   letter-spacing: normal;
-  color: #333;
+  color: #333333;
   margin: 0;
   float: left;
-  color: #666;
+  color: #666666;
   text-decoration: none;
   font-size: 12px;
   margin-left: 20px;
   margin-top: -17px;
 }
-.globalfooter .ac-gf-footer-locale a:hover {
-  color: #333;
+.ac-gf-footer-locale a:hover {
+  color: #333333;
   text-decoration: underline;
 }
-.globalfooter .ac-gf-footer-legal {
+.ac-gf-footer-legal {
   margin-bottom: 50px;
 }
-.globalfooter .ac-gf-footer-legal-copyright {
+.ac-gf-footer-legal-copyright {
   margin-top: -10px;
   float: left;
 }
-.globalfooter .ac-gf-footer-legal-copyright hr {
+.ac-gf-footer-legal-copyright hr {
   float: left;
   width: 1px;
   height: 20px;
@@ -1036,18 +1036,18 @@ p input[type=text],
   margin-left: 10px;
   margin-top: 0px;
 }
-.globalfooter .ac-gf-footer-legal-link {
+.ac-gf-footer-legal-link {
   line-height: 1.66667;
   letter-spacing: normal;
-  color: #333;
+  color: #333333;
   margin: 0;
   float: left;
-  color: #666;
+  color: #666666;
   text-decoration: none;
   font-size: 12px;
   margin-left: 20px;
 }
-.globalfooter .ac-gf-footer-legal-link:hover {
-  color: #333;
+.ac-gf-footer-legal-link:hover {
+  color: #333333;
   text-decoration: underline;
 }

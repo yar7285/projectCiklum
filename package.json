@@ -1,0 +1,35 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yar7285/projectCiklum.git"
+  },
+  "keywords": [
+    "project"
+  ],
+  "author": "yar7285",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yar7285/projectCiklum/issues"
+  },
+  "homepage": "https://github.com/yar7285/projectCiklum#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-bundle-assets": "^2.27.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-jshint": "^2.0.1",
+    "gulp-sourcemaps": "^1.6.0",
+    "gulp-util": "^3.0.7",
+    "jshint": "^2.9.2",
+    "jshint-stylish": "^2.2.0"
+  },
+  "dependencies": {
+    "del": "^2.2.1"
+  }
+}
